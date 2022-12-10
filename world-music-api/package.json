@@ -4,7 +4,7 @@
   "description": "Back-end code and DB connection",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "fs": "0.0.1-security",
     "mysql": "^2.16.0",
     "nodemon": "^1.18.6",
